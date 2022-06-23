@@ -34,13 +34,15 @@ Una vez implementado, hacemos clic en "Ir al recurso":
 
 
 Hacemos clic en Conectar y (en este ejemplo) elegimos RDP:
-
 ![VM11](https://user-images.githubusercontent.com/106035353/175205168-5f3bcfc7-b04e-455c-a1be-6d9b7dd9b619.png)
+
+
 
 
 
 Hacemos clic en "Descargar archivo RDP" y lo ejecutamos:
 ![VM12](https://user-images.githubusercontent.com/106035353/175205204-e33e9e25-7a63-4e8c-9ad5-2f017a617bd8.png)
+
 
 
 En la ventana de credenciales hacemos clic "Más opciones" e ingresamos las claves previamente configuradas (usuario y password):
