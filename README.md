@@ -15,5 +15,12 @@ Llenamos los campos, eligiendo la imagen o el SO que se desea así como la tarif
 
 ![VM6](https://user-images.githubusercontent.com/106035353/175203447-2a6add3a-e354-48f4-b49a-318f275be917.png)
 
+Hacemos clic hasta llegar a Etiquetas y asginamos si así lo requiere:
+![VM8](https://user-images.githubusercontent.com/106035353/175204841-0c31e5e2-1d9e-4089-94ad-bda4cf0c650e.png)
+
+
+Hacemos clic en Revisar y Crear, esperamos a que la implementación se implemente:
+![VM9](https://user-images.githubusercontent.com/106035353/175204891-f540f5a3-e0e3-42d6-93ca-c223bd334312.png)
+![VM10](https://user-images.githubusercontent.com/106035353/175204906-77a1aec7-cff0-4e74-a544-34c16b03be64.png)
 
 
