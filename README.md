@@ -32,8 +32,11 @@ Una vez implementado, hacemos clic en "Ir al recurso":
 ![VM20](https://user-images.githubusercontent.com/106035353/175204990-659b4fcb-060c-4a47-9f21-38c302c4d3f8.png)
 
 
+
 Hacemos clic en Conectar y (en este ejemplo) elegimos RDP:
+
 ![VM11](https://user-images.githubusercontent.com/106035353/175205168-5f3bcfc7-b04e-455c-a1be-6d9b7dd9b619.png)
+
 
 
 Hacemos clic en "Descargar archivo RDP" y lo ejecutamos:
