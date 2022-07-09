@@ -46,8 +46,9 @@ Hacemos clic en "Descargar archivo RDP" y lo ejecutamos:
 
 
 En la ventana de credenciales hacemos clic "Más opciones" e ingresamos las claves previamente configuradas (usuario y password):
-![VM13](https://user-images.githubusercontent.com/106035353/175205315-fb788d1c-be2e-494a-a184-80c83cd107e7.png)
-![VM14](https://user-images.githubusercontent.com/106035353/175205322-15ca5dfb-5b55-43aa-987c-693f8910ec91.png)
+![IM](https://user-images.githubusercontent.com/106035353/178091381-323381d0-9a82-4eee-9282-c0bcf3d6e24a.png)
+![IM2](https://user-images.githubusercontent.com/106035353/178091388-7266ddc0-9d3f-4881-b408-93fc51d9d74f.png)
+
 
 
 Aceptamos la conexión:
